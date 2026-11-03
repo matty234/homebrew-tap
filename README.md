@@ -3,6 +3,7 @@
 Homebrew casks for [k8sman](https://github.com/matty234/k8sman), a fast, native Kubernetes IDE for your Mac.
 
 ```sh
+brew trust matty234/tap   # Homebrew 7+: allow this third-party tap
 brew install --cask matty234/tap/k8sman
 ```
 
