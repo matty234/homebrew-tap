@@ -1,6 +1,6 @@
 cask "k8sman" do
-  version "0.2.13"
-  sha256 "ba9fd264cf681a4c9e27a56111f3a76d272b6f49af9bd7c4b5f456699ffb5694"
+  version "0.2.14"
+  sha256 "4a579da996d639f8d2bcf6a7304fb707791ef8a83ff5776e6924c1ae533f423b"
 
   url "https://github.com/matty234/k8sman/releases/download/v#{version}/k8sman-#{version}-macos.zip"
   name "k8sman"
